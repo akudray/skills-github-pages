@@ -1,6 +1,7 @@
 ---
-title: Welcome to my page
-Aaron Kudray
-Undergraduate Student | BSc Computing (Networks, Cyber Security & Forensics)
+title: My GitHub Pages Site
 ---
 
+# Welcome to My Site
+
+This is my first GitHub Pages website!
